@@ -9,6 +9,10 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 {{ page.title }}
 
+asd
+
+{{ "hi" | capitalize }}
+
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
