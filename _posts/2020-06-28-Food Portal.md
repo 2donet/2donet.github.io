@@ -7,21 +7,26 @@ title:  "Food portal"
 Public project for food portal
 
     Discussing project's description    |    Needs software and servers
-## Partners - join as first partner
+
+## Partners
+Join as first partner
 
 ## Activities  
-* Developing publicly a personalized center for information about food.
-* 
-* 
+* dishes filter
+* recipes filter
+* recipes and diets generator
+* personalizing
 
 ## Resources
-* *needs* **software** - 
-* *needs* **servers** -
+* *needs* **software** 
+* *needs* **servers** 
 * *data*
 
 ## Value propositions
-* czyli dlaczego
-
+* get food recomendendations basing on your storage, appliences, diets and more
+* generate personalized diets plans
+* promote your recipes
+* plan dishes with informations
 ## Rules
 * 
 
