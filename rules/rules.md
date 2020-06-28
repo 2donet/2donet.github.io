@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rules
-permalink: /rules/rules
+permalink: /rules
 ---
 
 
