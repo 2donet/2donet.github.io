@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2do.net"
+title:  "Food portal"
 ---
 
 # Foodia.net 
