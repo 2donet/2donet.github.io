@@ -9,7 +9,7 @@ Public project for food portal
     Discussing project's description    |    Needs software and servers
 
 ## Partners
-Join as first partner
+Join as a first partner
 
 ## Activities  
 * dishes filter
@@ -27,8 +27,11 @@ Join as first partner
 * generate personalized diets plans
 * promote your recipes
 * plan dishes with informations
+
 ## Rules
-* 
+* non-profit
+* open-source
+
 
 ## Channels
 * website with a list of materials 
