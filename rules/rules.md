@@ -1,16 +1,13 @@
 ---
 layout: page
 title: Rules
-permalink: /rules
+permalink: /about/rules
 ---
-
-
-# Rules of 2do.net
 Project under development
 
 ### Users are responsible for the content.
 
-### Network of common good projects 
+### Only non-profit projects  
 We only accept non-profit projects
 
 ### 

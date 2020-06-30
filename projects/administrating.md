@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Administrating
-permalink: /administrating
+permalink: /about/dministrating
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supporting
-permalink: /support
+permalink: /about/support
 ---
 
 * co - wspierać można każdy projekt: my zajmujemy się tymi nonprofit 

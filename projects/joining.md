@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joining
-permalink: /join
+permalink: /about/join
 ---
 * na jakich zasadch dołącza się do projektów 
 * gdzie można dołączyć

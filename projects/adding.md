@@ -1,5 +1,8 @@
 ---
 layout: page
 title: Adding
-permalink: /add
+permalink: /projects/add
 ---
+* zasady 
+* uzasadnienie
+* formularz
