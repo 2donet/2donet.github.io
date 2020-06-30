@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Ideas sharing network
+# Ideas sharing 
 
 ## Community cooperatives' projects
 Public development: discussion, collaboration and supplies to ideas that are being developed or you want to happen.
