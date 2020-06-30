@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Organizations
 permalink: /about/org
 ---
 for non-registered or not verified organizations check out [teams](/teams)

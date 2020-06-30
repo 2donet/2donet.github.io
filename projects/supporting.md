@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Supporting
 permalink: /about/support
 ---
 

@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Adding
 permalink: /projects/add
 ---
 * zasady 
