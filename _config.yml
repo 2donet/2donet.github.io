@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 2donet
 github_username:  2donet
 facebook_username: 2donet
+instagram_username: 2donet 
 
 # Build settings
 markdown: kramdown

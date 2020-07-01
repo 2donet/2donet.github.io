@@ -8,8 +8,18 @@ Public project for food portal
 
     Discussing project's description    |    Needs software and servers
 
-## Partners
+## Authors
+* [users](ja_i_reszta) [*join*]()
+* 0 Organization [*join*]()
+Users/organization 
+IT Join as a first partner
+Education Join as a first partner
+R&D Join as a first partner
+FMCG Join as a first partner
 Join as a first partner
+Join as a first partner
+
+
 
 ## Activities  
 * dishes filter

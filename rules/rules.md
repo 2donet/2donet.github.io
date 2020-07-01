@@ -5,7 +5,11 @@ permalink: /about/rules
 ---
 Project under development
 
-### Users are responsible for the content.
+### Users are responsible for 
+
+### Users are responsible for the content and their actions.
+2do.net relies on communieties, which full moderation is impossible
+the content.
 
 ### Only non-profit projects  
 We only accept non-profit projects
