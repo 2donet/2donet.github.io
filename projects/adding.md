@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /projects/add
+exclude: true
 ---
 
 # Adding projects 
