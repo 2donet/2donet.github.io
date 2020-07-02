@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Food portal"
+comments: true
+
 ---
 
 # Foodia.net 
