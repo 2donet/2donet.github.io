@@ -16,19 +16,19 @@
 title: 2do.net
 email: ideas@2do.net
 description: >- # this means to ignore newlines until "baseurl:
-Ideas and projects support portal under development. Only for nonprofit projects.
-Free-to-join community collaborating on ideas, because making ideas work alone may be impossible.
-We work on a www for providing projects with feedback, collaboration and supplies.
-Add or join communieties for ideas or projects. Discuss, support and develop. 
-Our mission is to help projects developed by individuals, friends or organizations.
-Help us improve by sending [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdwlQ0UNEKdaGpaegsAOOdap8h0sGQlxbmAbFDCBBp9NDPWMQ/viewform?usp=sf_link) (can be done anonymously)
+  Ideas and projects support portal under development. Only for nonprofit projects.
+  Free-to-join community collaborating on ideas, because making ideas work alone may be impossible.
+  We work on a www for providing projects with feedback, collaboration and supplies.
+  Add or join communieties for ideas or projects. Discuss, support and develop. 
+  Our mission is to help projects developed by individuals, friends or organizations.
+  Help us improve by sending [feedback](https://docs.google.com/forms/d/e/1FAIpQLSdwlQ0UNEKdaGpaegsAOOdap8h0sGQlxbmAbFDCBBp9NDPWMQ/viewform?usp=sf_link) (can be done anonymously)
 
 
-  # Describe, develop and support ideas by projects.
-  # Nonprofit crowdsourcing platform for not-only IT projects.
-  # Help causes you believe in by joining communieties.
-  
-  # A public, open-source, non-profit project under development.
+# Describe, develop and support ideas by projects.
+# Nonprofit crowdsourcing platform for not-only IT projects.
+# Help causes you believe in by joining communieties.
+ 
+# A public, open-source, non-profit project under development.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
