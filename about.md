@@ -11,15 +11,15 @@ They are maintained by people truely believing in them, but
  -->
 
 # Supporting peoples' ideas
-Everybody has multiple different ideas, but also problems with their development. Our mission is to promote ideas and help people by discussion, collaboration and sharing resources. 
+Everybody has  ideas, but also problems with their development. We promote ideas for people to supportem them with a discussion, collaboration and sharing resources. 
 
 ## Network of projects
-We are developing internet place of cooperation.
-* **crowdsourcing** is the idea for collaboration of strangers. Publishing project to the people allows other to help you: comment, cowork and support
-* **open source** means that anyone can study your work, help you and use your results
-* We publish only **nonprofit**, as we are also a **nonprofit** project (we want to establish a foundation)
-* **servers** - we are currently using GitHub's servers, but 
-* **verification** - every project must be already published on the Internet for the security reasons. In the future we want Users to be able to get verified by Institiutions, Universities, Organizations and other Users.
+We are developing internet place of cooperation, where you (individual, organization or anonymous) can publish an idea for people to develop.
+* **crowdsourcing** is the idea for collaboration of strangers. Publishing project to the people allows them to make them happen: comment, cowork and support. Most popular crowdsourcing website is GitHub.com, but people crowdsource also on Facebook.com and Reddit.com. As we haven't developed tool for crowdsourcing on 2do.net, we use Github, Facebook, Reddit and [more](/communities)
+* 2do.net is a **nonprofit** project **only for nonprofit projects** - we want to support peoples' ideas and develop a system that protects [Intelectuall Property](/ip).
+* **open source** means that anyone can study your work, help you and use it. We apply open source in our projects, but content you send to a project might be only used for its development (people won't be able to use your work for their own/other projects)
+* **servers** - we are currently using GitHub's servers. You can share your server with us or donate us money for maintaining servers (GitHub's servers have limited use, which does not allow high traffic and many changes)
+* **verification** - every project must be already published on the Internet. It allows us to verify if it's a real project. In the future we want Users to be able to get verified by Institiutions, Universities, Organizations and other Users. [more about verification]()
 
 ## Development
 You can [join](), [support](), [comment]() or [contact us]()

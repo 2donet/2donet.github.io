@@ -1,12 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
 # Ideas network
-Projects support portal under public development by free-to-join communities. 
+Portal for projects support under public development by free-to-join communities. 
+[*About development*](/)
 
 ## Community cooperatives' projects
 Describe an idea or ongoing nonprofit project and share it for others to discuss, join, supply or reward. We value direct contact between people, so no charges/commisions are taken (2do.net is maintained by volunteers).
