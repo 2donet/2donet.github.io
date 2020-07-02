@@ -3,8 +3,9 @@ layout: home
 ---
 
 # Ideas network
-Portal for projects support under public development by free-to-join communities. 
-[*About development*](/about/development)
+Non-profit projects supported by free to join communities.
+We are under public development.
+[*learn more*](/about/development)
 
 ## Community cooperatives' projects
 Describe an idea or ongoing nonprofit project and share it for others to discuss, join, supply or reward. We value direct contact between people, so no charges/commisions are taken (2do.net is maintained by volunteers).
