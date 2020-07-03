@@ -3,15 +3,37 @@ layout: page
 title: About
 permalink: /about/
 ---
-<!-- # Supporting people's ideas 
-This is public project: it is free to join, discuss and develop. You can access it 
-Uzasadnienie - dlaczego to ważne; przedstawienie założeń
-NGOs and R&D are common good projects. People usually supportem them 
-They are maintained by people truely believing in them, but 
- -->
 
-# Supporting peoples' ideas
+# About 2do.net
+project under [development](/development)
+
+## Supporting peoples' ideas
 Everybody has  ideas, but also problems with their development. We promote ideas for people to supportem them with a discussion, collaboration and sharing resources. 
+* Each user is responsible for the shared content 
+* Sharing your content *(eg. text, code, graphic, etc.)* on any project's community allows other people to use/modify your work **only for the purpose of the project**
+* We **currently** welcome only nonprofit projects, as we are under development and do not know how to protect Intellectual Property 
+
+
+
+
+## Team
+We are volounteers. We do not take any charges, fees, commisions. 2do.net is a publicly developed project: you can join, study or support us.
+
+## Public project
+We stand on **open source** in every part of the project. We allow public access to information in any aspect of the project.
+See details of:
+* [administration]()
+* [development]()
+* [finances]()
+* [software]()
+* [discussions]()
+
+## Development 
+We are realizing three goals.
+* **website** for supporting projects
+* **software** for managing projects from your device (P2P)
+* **foundation** to apply for state grants and support peoples' ideas [more](/foundation)
+
 
 ## Network of projects
 We are developing internet place of cooperation, where you (individual, organization or anonymous) can publish an idea for people to develop.
