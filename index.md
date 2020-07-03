@@ -3,7 +3,7 @@ layout: home
 ---
 
 # ideas to communities
-Only nonprofit projects
+Only nonprofit projects;
 Because ideas need support we are publicly developing a nonprofit portal for cooperation on them. [about](/about)
 
 ## Publish description
