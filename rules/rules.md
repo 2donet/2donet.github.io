@@ -15,9 +15,7 @@ the content.
 We only accept non-profit projects
 
 ### 
-
 generalne info o 2do.net, ale 
-You probably build websites and think your shit is special. You think your 13 megabyte parallax-ative home page is going to get you some fucking Awwward banner you can glue to the top corner of your site. You think your 40-pound jQuery file and 83 polyfills give IE7 a boner because it finally has box-shadow. Wrong, motherfucker. Let me describe your perfect-ass website:
 * [more about the project](2donetprojectpage)
 * [adding, discussing and helping projects on 2do.net ](rules)
 * [administration]( asd) [join administration)
