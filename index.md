@@ -2,7 +2,8 @@
 layout: home
 ---
 
-# Website for helping ideas
+# ideas to communieties
+Only nonprofit projects
 Because ideas need support we are publicly developing a nonprofit portal for cooperation on them. [about](/about)
 
 ## Publish description
