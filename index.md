@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Ideas to communities
 ---
 
 Only nonprofit projects;
