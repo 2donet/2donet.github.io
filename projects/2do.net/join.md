@@ -7,8 +7,17 @@ permalink: /join
 # Joining 2do.net 
 Project under development 
 
+* how to join as organization
+* how to join with servers 
+
+# Goals 
+
+# assumtpions 
+
 ## Rules 
 People are cooperating on 
+
+
 
 ### GitHub
 *recommended for programmers*
@@ -35,3 +44,10 @@ Discord is an internet livechat/forum. We use it for discussion and development.
 ResearchGate.com is a scientific social media. We published there 2do.net's description as an article, so that it can be discussed there.
 * [see 2do.net on ResearchGate]()
 
+
+
+# Organizations 
+
+# Servers
+
+Please, share feedback with us. Where else shall we operate? Where are we making mistakes? 

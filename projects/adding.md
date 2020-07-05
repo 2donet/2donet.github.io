@@ -10,6 +10,13 @@ Currently there are three ways of publishing a project
 2. Publish your description on one of [our social media groups](/join)
 3. [for programmers] create a post on [our GitHub](github.com/2donet/2donet.github.io)
 
+## Acknovle
 * zasady 
 * uzasadnienie
 * formularz
+
+# rules of development 
+
+# how to describe 
+
+# about crowdsourcing #mailing 

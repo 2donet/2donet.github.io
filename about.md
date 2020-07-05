@@ -4,24 +4,23 @@ title: About
 permalink: /about/
 ---
 
-# About 2do.net
 project under [development](/about/development)
 
-## Supporting peoples' ideas
+# Supporting peoples' ideas
 Everybody has  ideas, but also problems with their development. We promote ideas for people to support them with a discussion, collaboration and sharing resources. 
-* describe your idea
+* describe your idea/project 
 
+### Who are you?
+We are volounteers: a group of polish students, but you can join us no matter you education and nationality: [click here to join](/join).
 
-# Rules 
-* Each user is responsible for the shared content 
-* Adding your content *(eg. comment, code, graphic, etc.)* to any project's community allows other people to use/modify your work **only for the purpose of the project you contribute to**
-* We **currently** welcome only nonprofit projects
+## What are you doing?
+We are developing a portal for connecting people to ideas. Each idea constists of description and forums on different websites (like Facebook, Reddit, GitHub and ResearchGate). Adding and joining ideas is open to public: you can either describe a project or join a community that has already been launched. Currently we accept only **nonprofit projects**. 
 
+### For whom is this project?
+This is for individuals and organizations to develop nonprofit projects (you can remain authorship for your work or stay anonymous.  
 
-
-
-## Team
-We are volounteers. We do not take any charges, fees, commisions. 2do.net is a publicly developed project: you can join, study or support us.
+### How does it work?
+Author posts an idea's description. Other users can develop this idea as a project on their own or in communities. People should b
 
 ## Public project
 We stand on **open source** in every part of the project. We allow public access to information in any aspect of the project.
@@ -32,13 +31,6 @@ See details of:
 * [software]()
 * [discussions]()
 
-## Development 
-We are realizing three goals.
-* **website** for supporting projects
-* **software** for managing projects from your device (P2P)
-* **foundation** to apply for state grants and support peoples' ideas [more](/foundation)
-
-
 ## Network of projects
 We are developing internet place of cooperation, where you (individual, organization or anonymous) can publish an idea for people to develop.
 * **crowdsourcing** is the idea for collaboration of strangers. Publishing project to the people allows them to make them happen: comment, cowork and support. Most popular crowdsourcing website is GitHub.com, but people crowdsource also on Facebook.com and Reddit.com. As we haven't developed tool for crowdsourcing on 2do.net, we use Github, Facebook, Reddit and [more](/communities)
@@ -47,8 +39,16 @@ We are developing internet place of cooperation, where you (individual, organiza
 * **servers** - we are currently using GitHub's servers. You can share your server with us or donate us money for maintaining servers (GitHub's servers have limited use, which does not allow high traffic and many changes)
 * **verification** - every project must be already published on the Internet. It allows us to verify if it's a real project. In the future we want Users to be able to get verified by Institiutions, Universities, Organizations and other Users. [more about verification]()
 
+## Development 
+We are realizing three goals.
+* **website** for supporting projects
+* **software** for managing projects from your device (P2P)
+* **foundation** to apply for state grants and support peoples' ideas [more](/foundation)
+
+
 ## Development
 You can [join](), [support](), [comment]() or [contact us]()
+* zasady developowania 
 
 ## Progress
 We are developing a website and software for cooperation on ideas.
@@ -62,8 +62,31 @@ We are developing a website and software for cooperation on ideas.
 * finances  
 
 
+## Administration 
+
+### Legal form 
+Currently 2do.net has no registered legal identity: it is a project maintainted by 4 students. In the future we want 2do.net to found a global [foundation](/foundation) that will run 2do.net and support peoples' projects.
 
 
+It is a project run by 3 polish students
+
+# Rules 
+* Each user is responsible for the shared content 
+* Adding your content *(eg. comment, code, graphic, etc.)* to any project's community allows other people to use/modify your work **only for the purpose of the project you contribute to**
+* We **currently** welcome only nonprofit projects
+
+
+
+### Servers
+
+### Moderation
+
+### Finances 
+
+
+## Promotion 
+
+## Team
 
 
 

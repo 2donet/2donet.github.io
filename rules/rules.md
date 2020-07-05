@@ -21,7 +21,10 @@ generalne info o 2do.net, ale
 * [administration]( asd) [join administration)
 * [development](develpotment)
 
-### 2do.net is under development
+
+### Rules under development
+you can help us with setting up rules: you don't have to be a lawyer (but it's great if you are!)
+We are currently operating on facebook, but more accounts incoming 
 We want to support peoples' ideas, but right now we need your help. Please, send us [feedback]
 
 # Joining 2do.net
@@ -36,13 +39,4 @@ Join one of our communieties or [conctact us]()
 [finances](/about/adding/)
 [finances](/about/administration/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
