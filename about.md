@@ -5,13 +5,17 @@ permalink: /about/
 ---
 
 # About 2do.net
-project under [development](/development)
+project under [development](/about/development)
 
 ## Supporting peoples' ideas
-Everybody has  ideas, but also problems with their development. We promote ideas for people to supportem them with a discussion, collaboration and sharing resources. 
+Everybody has  ideas, but also problems with their development. We promote ideas for people to support them with a discussion, collaboration and sharing resources. 
+* describe your idea
+
+
+# Rules 
 * Each user is responsible for the shared content 
-* Sharing your content *(eg. text, code, graphic, etc.)* on any project's community allows other people to use/modify your work **only for the purpose of the project**
-* We **currently** welcome only nonprofit projects, as we are under development and do not know how to protect Intellectual Property 
+* Adding your content *(eg. comment, code, graphic, etc.)* to any project's community allows other people to use/modify your work **only for the purpose of the project you contribute to**
+* We **currently** welcome only nonprofit projects
 
 
 
