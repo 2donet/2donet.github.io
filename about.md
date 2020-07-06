@@ -16,21 +16,6 @@ We are volounteers: a group of polish students, but you can join us no matter yo
 ## What are you doing?
 We are developing a portal for connecting people to ideas. Each idea constists of description and forums on different websites (like Facebook, Reddit, GitHub and ResearchGate). Adding and joining ideas is open to public: you can either describe a project or join a community that has already been launched. Currently we accept only **nonprofit projects**. 
 
-### For whom is this project?
-This is for individuals and organizations to develop nonprofit projects (you can remain authorship for your work or stay anonymous.  
-
-### How does it work?
-Author posts an idea's description. Other users can develop this idea as a project on their own or in communities. People should b
-
-## Public project
-We stand on **open source** in every part of the project. We allow public access to information in any aspect of the project.
-See details of:
-* [administration]()
-* [development]()
-* [finances]()
-* [software]()
-* [discussions]()
-
 ## Network of projects
 We are developing internet place of cooperation, where you (individual, organization or anonymous) can publish an idea for people to develop.
 * **crowdsourcing** is the idea for collaboration of strangers. Publishing project to the people allows them to make them happen: comment, cowork and support. Most popular crowdsourcing website is GitHub.com, but people crowdsource also on Facebook.com and Reddit.com. As we haven't developed tool for crowdsourcing on 2do.net, we use Github, Facebook, Reddit and [more](/communities)
@@ -45,6 +30,11 @@ We are realizing three goals.
 * **software** for managing projects from your device (P2P)
 * **foundation** to apply for state grants and support peoples' ideas [more](/foundation)
 
+### For whom is this project?
+This is for individuals and organizations to develop nonprofit projects (you can remain authorship for your work or stay anonymous.  
+
+### How does it work?
+Author posts an idea's description. Other users can develop this idea as a project on their own or in communities. People should b
 
 ## Development
 You can [join](), [support](), [comment]() or [contact us]()
@@ -55,11 +45,24 @@ We are developing a website and software for cooperation on ideas.
 * website to publish a project
 * software for private cooperation on projects from your own server
 
+## Public project
+We stand on **open source** in every part of the project. We allow public access to information in any aspect of the project.
+See details of:
+* [administration]()
+* [development]()
+* [finances]()
+* [software]()
+* [discussions]()
+
+
+
 # Learn more:
 * communieties  
 * rules 
 * administration
 * finances  
+
+
 
 
 ## Administration 
@@ -75,19 +78,46 @@ It is a project run by 3 polish students
 * Adding your content *(eg. comment, code, graphic, etc.)* to any project's community allows other people to use/modify your work **only for the purpose of the project you contribute to**
 * We **currently** welcome only nonprofit projects
 
-
+### Verification
+* published material should be published externally
+* to do is a system for verification 
 
 ### Servers
+* gitHub od microsoft, 
+* formularze w technologii google hostowane na uw 
+* newsletter od 2donet
+* docelowo siec serwerow 
+* zglos sie sam lub jako organizacja 
+* dorzuc sie do zbiorki
 
 ### Moderation
+* kazdy projekt ma wlasna
+* ten proejkt jest moderowany publicznie (kazdy moze pomoc)
+* zglos sie do moderacji
+
+
 
 ### Finances 
-
+* brak prowizji, oplat itd 
+* dzialalnosc nonprofit 
+* crowdfunding (zbiórki) sa dozwolone 
+* zbiórka zawiera okreslony cel i okreslonego administratora zbiorki (docelowo sysytem do robienia tego i wyplacanie w transzach, ale nei wiemy jeszccze jak dokladnie by to mialo dzialac - dolacz do projektu robienia tego)
+* my prowadzimy zbiorki na serwery
+* mozna wspierac uzytkownikow - np team 2do 
 
 ## Promotion 
+* content marketing - 
+* marketing szeptany
+* promocja skutecznoscia projektow 
+* partonaty organizacji i osob 
+* super by bylo jakby mozna bylo 
+
 
 ## Team
-
+* piotr putylo
+* ritwick
+* pacek
+* Ewa 
 
 
 

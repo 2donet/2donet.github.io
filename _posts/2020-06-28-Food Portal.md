@@ -4,6 +4,46 @@ title:  "Food portal"
 comments: true
 
 ---
+*nonprofit project*
+
+**rules** | public | open source | MIT
+
+**Assumptions**
+1. Health is dependent from food.
+2. Free websites with food lack content and features
+3. Information on food should be verified 
+
+# **Goal**
+**Food portal** with open source database and software. Users can share recipes or find available recipes
+* **recipes** database
+* **diets** generator
+* **alternatives** - 
+ 
+# Description
+
+* Face
+
+Goal | Links 
+| ----- | ---- | 
+Discussion | [Facebook]() | [Reddit]() | [Discord]() | [GitHub]()
+
+
+
+Software | [Facebook]() | [Reddit]() | [Discord]() | [GitHub]()
+Servers | [Facebook]() | [Reddit]() | [Discord]() | [GitHub]()
+Database | [Facebook]() | [Reddit]() | [Discord]() | [GitHub]()
+
+
+* SM 
+* SM
+
+
+
+## administration
+
+### control
+
+
 
 # Foodia.net 
 Public project for food portal
