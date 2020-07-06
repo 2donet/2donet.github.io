@@ -4,21 +4,14 @@ title: Join
 permalink: /join
 ---
 
-# Joining 2do.net 
-Project under development 
 
-this pages covers how to join 2do.net:
-* as individual
-* as organization
-* with servers 
-
-# Goals 
-
-# assumtpions 
-
-## Rules 
-People are cooperating on 
-
+The project is being developed on **GitHub** [**here**](https://github.com/2donet/2donet.github.io) and Social Media:
+* Facebook
+	* [Fanpage]()
+	* [Group for developing 2do.net]() [other projects]()  [Law]()  [Finances]()  [Group for sharing projects]()
+* GitHub - try it as non-programmer by reading and adding bugs
+* Reddit
+	* 2do.net development 
 
 
 ### GitHub
@@ -43,13 +36,4 @@ Discord is an internet livechat/forum. We use it for discussion and development.
 
 ### ResearchGate
 *recommended for scientists*
-ResearchGate.com is a scientific social media. We published there 2do.net's description as an article, so that it can be discussed there.
-* [see 2do.net on ResearchGate]()
-
-
-
-# Organizations 
-
-# Servers
-
-Please, share feedback with us. Where else shall we operate? Where are we making mistakes? 
+ResearchGate.com is a scientific social media. We plan to publish and discuss projects there.
