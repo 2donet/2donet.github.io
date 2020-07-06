@@ -7,8 +7,10 @@ permalink: /join
 # Joining 2do.net 
 Project under development 
 
-* how to join as organization
-* how to join with servers 
+this pages covers how to join 2do.net:
+* as individual
+* as organization
+* with servers 
 
 # Goals 
 

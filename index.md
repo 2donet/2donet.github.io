@@ -3,14 +3,15 @@ layout: home
 title: Ideas support
 ---
 
-**[Project under development](/about)**
+**[under development](/about)**
+System connecting people directly. Reach individuals and organizations who want to help you, beacuse they belive in your idea. 
 
 
 ## Common good
 Share ideas to make the world a better place. Describe what's on your mind and share it with community.  Start or join projects dedicated to a specified goal - connect to users and organizations that agree with you.
 
 ### Nonprofit for profit
-Collaborate with others at a place of your choice: we are on [GitHub](https://github.com/2donet), [Facebook](https://www.facebook.com/groups/2donet), [Reddit](https://www.reddit.com/r/2donet) and [Discord](https://discord.gg/sYPgWPa) *(Twitter, LinkedIn, ResearchGate and Instagram coming soon)*.
+Collaborate with others at a place of your choice: we are on [GitHub](https://github.com/2donet), [Facebook](https://www.facebook.com/groups/2donet), [Reddit](https://www.reddit.com/r/2donet) and [Discord](https://discord.gg/sYPgWPa) *(Twitter, LinkedIn, ResearchGate, Instagram and 2do.net software coming soon)*.
 * **feedback** - comment, discuss and collect opinions
 * **supplies** - let others help with resources (data, devices, materials,  etc.)
 * **cowork** - get things done.

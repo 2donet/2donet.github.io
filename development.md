@@ -8,6 +8,16 @@ permalink: /about/development
 
 ## Goal 
 Network of multiple servers hosting projects with 2do.net as a repository.
+* co dokladnie 
+* po co
+
+kto?
+
+gdzie?
+
+Kiedy?
+1. lekki gantt 
+2. lekki gantt 
 
 ### To do
 * **software** for easily hosting an idea developing server and picking users able to access it (eg. filtering: only for Ph.D. in chemistry with polish citizenship)
