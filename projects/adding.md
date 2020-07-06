@@ -4,25 +4,10 @@ permalink: /projects/add
 exclude: true
 ---
 
-2do.net is a project under developmet. This site is being developed on:
+2do.net is a crowdsourcing project: [join us](/join)
 
-Currently there are three ways of publishing a project
-1. Fill a [formula]() to get posted on 2do.net
-2. Publish your description on one of [our social media groups](/join)
-3. [for programmers] create a post on [our GitHub](github.com/2donet/2donet.github.io)
-
-## Acknovle
-* zasady 
-* uzasadnienie
-* formularz
-
-# rules of development 
-
-# how to describe 
-
-# about crowdsourcing #mailing 
-*Crowdsourcing*
-The idea of cooperating with strangers: allowing people to join development makes people able to give feedback, collaborate on solving problems and supplying with necessary resources. It is an invitation for doing things together. Whether you are a scientists publishing research articles, teenager commenting posts on social media or a big corporation supporting a nonprofit organization - you are crowdsourcing.
+# about crowdsourcing 
+**Crowdsourcing** - the idea for cooperating with strangers: allowing people to join development makes people able to give feedback, collaborate on solving problems and supplying with necessary resources. It is an invitation for doing things together. Whether you are a scientists publishing research articles, teenager commenting posts on social media or a big corporation supporting a nonprofit organization - you are crowdsourcing.
 *example: Linux is the most popular operating computer system working on servers. All of its details are accessible to the public: it is free to use, study and modify. People use it, because they see exactly how is it working, are able to apply modifications and have the right to use it also for commercial purpose.*
 ## Why? **Because there is power in the public**
 People join initiatives, because they want to get involved in interesting projects. They want to join: to practice, to verify their skills, to socialize and to be a part of a change. Creating solutions requires knowledge. Studying a topic takes time, when usually there are people all over the planet who have been already focusing on it for years. Development is impossible without necessary resources. By convincing people to your idea you generate a chance of it to come real.
