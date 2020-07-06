@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Encyclopedia"
+title:  "Knowledge database"
 comments: true
 ---
 
