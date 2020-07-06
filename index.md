@@ -1,22 +1,24 @@
 ---
 layout: home
-title: Ideas to communities
+title: Ideas support
 ---
 
-# Website for helping ideas grow
-Because ideas need support we are publicly developing a nonprofit portal for cooperation on them: [learn more](/about).
-
-Only nonprofit projects;
-Because ideas need support we are publicly developing a nonprofit portal for cooperation on them. [about](/about)
+**[Project under development](/about)**
 
 
-## Publish description
-For community to develop a project with you. You can also join any public idea to discuss it, collaborate on it or just to observe and get entertained. If you believe in an idea, promote it across your friends and organizations.
- * you can do it in person
- * by mails
- * here, *on 2do.net* 
- * on almost any website *(we use GitHub, Facebook, Reddit, Twitter, LinkedIn and ResearchGate)*
+## Common good
+Share ideas to make the world a better place. Describe what's on your mind and share it with community.  Start or join projects dedicated to a specified goal - connect to users and organizations that agree with you.
 
-Join ideas now or [get notified](www.2do.net)
+### Nonprofit for profit
+Collaborate with others at a place of your choice: we are on [GitHub](https://github.com/2donet), [Facebook](https://www.facebook.com/groups/2donet), [Reddit](https://www.reddit.com/r/2donet) and [Discord](https://discord.gg/sYPgWPa) *(Twitter, LinkedIn, ResearchGate and Instagram coming soon)*.
+* **feedback** - comment, discuss and collect opinions
+* **supplies** - let others help with resources (data, devices, materials,  etc.)
+* **cowork** - get things done.
+ 
+### Rules
+1. User is responsible for shared content.
+2. We are working on MIT License.
+
+#### Make a change.
 
 # Ideas:
