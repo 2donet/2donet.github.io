@@ -3,7 +3,6 @@ layout: post
 title:  "Tales personalization"
 comments: true
 ---
-Readee is an idea for 
 
 *nonprofit project*
 
