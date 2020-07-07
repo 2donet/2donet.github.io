@@ -16,7 +16,7 @@ Describe what's on your mind and share it with the community.
 
 ## Community cooperatives [add](/add) 
 Collaborate with others at a place of your choice.
-* GitHub[click here](https://github.com/2donet) tutorial [here](/tutorial-for-github
+* GitHub[click here](https://github.com/2donet) tutorial [here](/tutorial-for-github) 
 * Facebook
     * for sharing projects [click here](https://www.facebook.com/groups/2donet), 
     * administrating 2do.net [click here]
