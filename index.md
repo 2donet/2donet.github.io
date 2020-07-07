@@ -5,16 +5,14 @@ title: Crowdsourcing
 
 Public nonprofit project under development **[details](/2020/06/27/2do.net)**
 
-# Connect ideas
-This is a a place to publish nonprofit project
+# Share ideas 
+This is a place for publishing ideas and nonprofit project. 
 * **feedback** - view and comment
 * **supplies** - suggest resources (data, tools,?)
 * **cowork** - get things done.
 
 ## Coop with users and orgs
 Describe what's on your mind and share it with the community.
-Start or join projects dedicated to a specified goal. 
-
 
 ## Community cooperatives [add](/add) 
 Collaborate with others at a place of your choice. 
@@ -29,7 +27,5 @@ Collaborate with others at a place of your choice.
 ### Rules
 1. The user is responsible for shared content.
 2. We are working on the MIT License.
-
-### 
 
 # Ideas:
