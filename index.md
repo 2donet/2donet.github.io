@@ -15,7 +15,8 @@ This is a a place to publish nonprofit project
 Describe what's on your mind and share it with the community.
 Start or join projects dedicated to a specified goal. 
 
-## Join
+
+## Community cooperatives [add](/add) 
 Collaborate with others at a place of your choice. 
 * GitHub[click here](https://github.com/2donet) tutorial [here](/tutorial-for-github
 * Facebook Grou
@@ -29,6 +30,6 @@ Collaborate with others at a place of your choice.
 1. The user is responsible for shared content.
 2. We are working on the MIT License.
 
-#### Make a change.
+### 
 
 # Ideas:
