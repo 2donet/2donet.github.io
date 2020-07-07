@@ -1,21 +1,21 @@
 ---
 layout: home
-title: Ideas support
+title: Crowdsourcing
 ---
 
 Public nonprofit project under development **[details](/2020/06/27/2do.net)**
 
-# Connect to ideas
-Let's do a place to meet individuals and organizations agreeing on projects and sharing ideas. 
+# Connect ideas
+This is a a place to publish nonprofit project
 * **feedback** - view and comment
 * **supplies** - suggest resources (data, tools,?)
 * **cowork** - get things done.
 
-## Connect to users and organizations
+## Coop with users and orgs
 Describe what's on your mind and share it with the community.
 Start or join projects dedicated to a specified goal. 
 
-### Join
+## Join
 Collaborate with others at a place of your choice. 
 * GitHub[click here](https://github.com/2donet) tutorial [here](/tutorial-for-github
 * Facebook Grou
