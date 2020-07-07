@@ -17,8 +17,8 @@ comments: true
 
 
 # **Goal**
-Catehorized, searchable, filtrable **knowledge database** with content added and tagged by user. 
-* **Content tagged** by language, format, length, complexity, license to use/modify and more. 
+Categorized, searchable, filtrable **knowledge database** with content added and tagged by the user. 
+* **Content tagged** by language, format, length, complexity, license to use/modify, and more. 
 
 
 ## Requirements
@@ -30,11 +30,11 @@ Catehorized, searchable, filtrable **knowledge database** with content added and
 # Needs
 1. Discussion - *what do you think about this idea?*
 2. Development
-	* Analysis
-	* Desing
-	* Prototyping
-	* Testing
-	* Deployment 
+    * Analysis
+    * Desing
+    * Prototyping
+    * Testing
+    * Deployment 
 3. Servers
 4. Content
 5. Promotion
@@ -43,9 +43,9 @@ Catehorized, searchable, filtrable **knowledge database** with content added and
 
 
 ## Description
-Portal for learning. Encyclopedia, where each topic is briefly defined and has a list of associated educational materials. Each piece of content (article, presentation, online course, video, visualization, infographic, game, podcast etc.) is described in the language, details it covers, knowledge it requires to be understood, for whom it is recommended, length, file format, price and the right to use/modify.
+Portal for learning. Encyclopedia, where each topic is briefly defined and has a list of associated educational materials. Each piece of content (article, presentation, online course, video, visualization, infographic, game, podcast, etc.) is described in the language, details it covers, the knowledge it requires to be understood, for whom it is recommended, length, file format, price and the right to use/modify.
 
-In further steps, an algorithm will be used to generate content optimised for learning specific topics, depending on the user's current knowledge and educational background. 
+In further steps, an algorithm will be used to generate content optimized for learning specific topics, depending on the user's current knowledge and educational background. 
 
 
 | **Join development on** | 
