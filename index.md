@@ -3,10 +3,10 @@ layout: home
 title: Ideas support
 ---
 
-Public nonprofit project under development**[details](/2020/06/27/2do.net)**
+Public nonprofit project under development **[details](/2020/06/27/2do.net)**
 
 # Connect to ideas
-Meet individuals and organizations agreeing on projects and share your ideas. 
+Let's do a place to meet individuals and organizations agreeing on projects and sharing ideas. 
 * **feedback** - view and comment
 * **supplies** - suggest resources (data, tools,?)
 * **cowork** - get things done.
