@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Crowdsourcing
+title: Home
 ---
 
 Public nonprofit project under development **[details](/2020/06/27/2do.net)**
