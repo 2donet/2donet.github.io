@@ -2,6 +2,7 @@
 layout: post
 title:  "Food portal"
 comments: true
+permalink: /food/
 
 ---
 *nonprofit project*
