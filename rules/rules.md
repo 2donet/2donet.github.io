@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /rules/
 
 ---
 Project under development
