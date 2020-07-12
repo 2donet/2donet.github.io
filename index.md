@@ -12,7 +12,6 @@ Publish or join ideas being developed as nonprofit projects. Help social, scienc
 * **supply** - share resources for common cause by talking, providing, and using them
 * **cooperate** - get things done with others on the Internet.
 
+**[publish an idea](/add)**
 
-
-
-# Ideas:
+# Join:

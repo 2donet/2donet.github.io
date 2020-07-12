@@ -13,7 +13,11 @@ Anyone can join, use, and modify others content. Learn more about [rules](/rules
 The project is being developed on **GitHub** [**here**](https://github.com/2donet/2donet.github.io) and Social Media:
 * Facebook
 	* [Fanpage]()
-	* [Group for developing 2do.net]() [other projects]()  [Law]()  [Finances]()  [Group for sharing projects]()
+	* [Group for developing 2do.net]()
+		* [Servers]()
+		* [Law]()
+		* [Finances]()
+	* [posting projects]()
 * GitHub - try it as non-programmer by reading and adding bugs
 * Reddit
 	* 2do.net development 

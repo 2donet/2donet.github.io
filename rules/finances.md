@@ -1,7 +1,18 @@
 ---
 layout: page
-permalink: /about/org
+permalink: /finances 
 ---
+
+This website supports raisings only by verified projects 
+
+
+
+
+
+
+
+
+
 for non-registered or not verified organizations check out [teams](/teams)
 
 
