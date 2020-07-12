@@ -4,6 +4,11 @@ title: Join
 permalink: /join
 ---
 
+This is a open source project: 
+
+## Rules
+Anyone can join, use, and modify others content. Learn more about [rules](/rules)
+
 
 The project is being developed on **GitHub** [**here**](https://github.com/2donet/2donet.github.io) and Social Media:
 * Facebook
@@ -32,7 +37,7 @@ We use Twitter for posting updates on 2do.net and other projects, so that people
 
 ### Discord
 Discord is an internet livechat/forum. We use it for discussion and development.
-* join [our discord server]
+* join [our discord server](https://discord.gg/sYPgWPa)
 
 ### ResearchGate
 *recommended for scientists*
