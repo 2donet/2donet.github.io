@@ -7,6 +7,8 @@ permalink: /food/
 ---
 *nonprofit project*
 
+[foodia.net](https://www.foodia.net/)
+
 **rules** | public | open source | MIT
 
 **Assumptions**
